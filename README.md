@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @MustafaMahamoud
-- 👀 I’m interested in programming with c#, python
-- 💞️ I’m looking to collaborate on c#, python and angular projects
+- 👨‍💻 Software Development Manager | .NET Team Lead  
+- 🚀 Building scalable Web APIs & cloud-based solutions
+- 📌 Leading teams by day, coding & freelancing by 
+- 🎮 Gamer | 🐎 Horse rider | 🌵 Desert adventurer
 - 📫 How to reach me mustafatayea@gmail.com
 
 <!---
