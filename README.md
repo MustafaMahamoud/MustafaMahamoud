@@ -3,7 +3,6 @@
 - 🚀 Building scalable Web APPs & cloud-based solutions
 - 📌 Leading teams by day, coding & freelancing by night
 - 🎮 Gamer | 🐎 Horse rider | 🌵 Desert adventurer
-- 📫 How to reach me mtayea@enterprisemea.com
 
 <!---
 MustafaMahamoud/MustafaMahamoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
